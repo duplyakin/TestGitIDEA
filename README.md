@@ -1,3 +1,3 @@
 # TestGitIDEA
 
-Create readmy
+Create readme
