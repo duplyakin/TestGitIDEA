@@ -8,6 +8,8 @@ public class Squash {
         System.out.println("01");
         System.out.println("02");
         System.out.println("03");
+        //------------------------
+        //my change is squash 1
 
     }
 }
