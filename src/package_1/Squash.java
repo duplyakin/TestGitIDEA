@@ -10,6 +10,7 @@ public class Squash {
         System.out.println("03");
         //------------------------
         //my change is squash 1
+        //my change is squash 2
 
     }
 }
