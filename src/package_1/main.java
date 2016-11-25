@@ -14,5 +14,7 @@ public class main {
         System.out.println("MASTER changed");
         System.out.println("MASTER CHANGED 0");
         System.out.println("MASTER CHANGED 1");
+        //---------------------------------
+        //my change in main 1
     }
 }
