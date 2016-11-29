@@ -5,17 +5,6 @@ package package_1;
  */
 public class main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        System.out.println("1");
-        System.out.println("my_branch_1");
-        System.out.println("master_1");
-        System.out.println("master_2");
-
-        System.out.println("MASTER changed");
-        System.out.println("MASTER CHANGED 0");
-        System.out.println("MASTER CHANGED 1");
-        //------------------------------------
-        //TEAM change 1
-        //1
+        //Team change 0
     }
 }
