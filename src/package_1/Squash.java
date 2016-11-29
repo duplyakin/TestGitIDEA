@@ -6,5 +6,6 @@ package package_1;
 public class Squash {
     public static void main(String[] args) {
         //My change 0
+        //Team change 1
     }
 }
