@@ -7,5 +7,6 @@ public class Squash {
     public static void main(String[] args) {
         //My change 0
         //Team change 1
+        //Team change 2
     }
 }
